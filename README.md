@@ -1,0 +1,1 @@
+PushChat is a ruby server application providing RESTful API.
